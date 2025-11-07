@@ -1,0 +1,9 @@
+tensorflow==2.15.0
+keras==2.15.0
+kivy==2.3.0
+mysql-connector-python
+numpy
+pandas
+opencv-python
+Pillow
+scikit-learn
