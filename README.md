@@ -59,7 +59,7 @@ The project follows a modular architecture:
 ---
 
 ## ⚙️ Implementation Details
-
+```
 Dental-Biometric-System/
 ├── Dental_Biometric_System/
 │ ├── main.py
@@ -71,7 +71,7 @@ Dental-Biometric-System/
 │ └── Dental_Biometric_System_SRS.pdf
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
